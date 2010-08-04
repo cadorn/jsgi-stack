@@ -1,0 +1,9 @@
+{
+    "name": "jsgi-stack",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git://github.com/cadorn/jsgi-stack.git"
+        }
+    ]
+}
